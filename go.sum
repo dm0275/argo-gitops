@@ -1,0 +1,6 @@
+github.com/dm0275/argo-config v0.0.0-20240904191111-710c852a20ea h1:g/XUeR6+X0egMt5xSDDINkcGogr1b5dBMIx1FtibC8g=
+github.com/dm0275/argo-config v0.0.0-20240904191111-710c852a20ea/go.mod h1:2LNRB479Qyv3UxVTjWEPRPX8bXOCo7iBqx0EhTUZWlQ=
+github.com/dm0275/argo-config v0.0.0-20240904191914-89ab92228705 h1:p6pVRtGF/odnPfXq/iT+nzMP+6Y+fxLiXWQwHDOH3F4=
+github.com/dm0275/argo-config v0.0.0-20240904191914-89ab92228705/go.mod h1:2LNRB479Qyv3UxVTjWEPRPX8bXOCo7iBqx0EhTUZWlQ=
+github.com/magefile/mage v1.15.0 h1:BvGheCMAsG3bWUDbZ8AyXXpCNwU9u5CB6sM+HNb9HYg=
+github.com/magefile/mage v1.15.0/go.mod h1:z5UZb/iS3GoOSn0JgWuiw7dxlurVYTu+/jHXqQg881A=
